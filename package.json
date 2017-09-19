@@ -1,6 +1,6 @@
 {
   "name": "opensearch-hlg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "opensearch API",
   "main": "index.js",
   "directories": {
@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/justmoon/node-extend.git"
+    "url": "https://github.com/SharksevenRo/opensearch-hlg"
   },
   "contributors": [
     {
-      "name": "Jordan Harband",
+      "name": "Sharkseve",
       "url": "https://github.com/SharksevenRo"
     }
   ],
