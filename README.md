@@ -23,7 +23,7 @@ search.setQueryString("default:计算");
 search.setFormat('json');
 
 const result = search.search()
-.then(data ={
+.then(data =>{
     //查询结果
 });
 ```
