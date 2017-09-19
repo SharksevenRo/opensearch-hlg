@@ -17,7 +17,6 @@ search.addIndex('sharkseven');
 search.setQueryString('default:搜索');
 // search.setFormat('json');
 console.log(search);
-const result = search.search().then(data => {
+search.search().then(data => {
     console.log(data);
 });
-console.log(result);
