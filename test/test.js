@@ -5,8 +5,8 @@ const CloudSearch = opensearch.CloudSearch;
 
 const client_opts = {
     host: 'http://opensearch-cn-qingdao.aliyuncs.com',
-    accessKeyId: 'LTAI3hadfiygtVRH',
-    secret: 'UBFWT8rtzLeDRlEHSOA0AgkAsjzWjn',
+    accessKeyId: 'xxx',
+    secret: 'xxxxx',
     debug: true
 };
 
